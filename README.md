@@ -8,5 +8,5 @@ Dossier CY-FIGHTER: main.c, head.h, functions.c, display.c, perso.txt, Makefile
 4) Suivre les consignes du jeu
 5) Taper dans le terminal : make clean
 
-Auteurs: ZEBOUDJ Nawel Préing1 MI2
+Auteurs: ZEBOUDJ Nawel Préing1 MI2 / 
          NEDJAR Hadjer Préing1 MI2
