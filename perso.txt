@@ -1,0 +1,45 @@
+1/Mur de feu;0.80;0;3;0;1;0;0;1;Baisse la defense adverse de 20%
+Feu Ardent;0.85;4;4;1;0;0;0;1;Baisse l'attaque ennemi de 15%
+Braise;1.15;3;3;0;0;0;0;0;Augmente vie d'un de tes allies de 15%  
+Braise;50;60.0;47.0;20.0;30.0
+
+2/Prison d'eau;0.80;0;2;0;1;0;0;1;Baisse la defense ennemi de 20%  
+Breuvage;1.20;3;3;0;0;0;0;0;Augmente la vie de tes allies de 20% 
+Triton;0.80;5;5;1;0;0;0;1;Baisse l'attaque ennemi de 20%
+Aquada;50;60.0;40.0;20.0;35.0
+
+3/Tornade;0.85;5;5;0;0;1;1;1;Reduit vitesse et agilite ennemie de 15% 
+Brise;1.15;4;4;0;0;0;0;0;Augmente la vie de tes allies de 15% 
+Mirage;0.80;0;3;0;1;0;0;1;Baisse defense ennemie de 20% 
+Reaxy;50;68.0;23.0;15.0;50.00
+
+4/Racine;1.15;4;4;1;0;0;0;0;Augmente vie allie de 15%  
+Appel de la nature;0.80;4;4;0;1;0;0;1;Baisse de 20% de la defense ennemie
+Plante soporifique;0.85;0;2;1;1;0;0;1;Baisse attaque et defense ennemie de 15%
+Terry;50;59.0;48.0;25.0;40.00
+
+5/Ondulations;0.70;4;4;0;0;0;1;1;Reduit vitesse ennemie de 30%
+Résonnance;0.80;3;3;0;1;0;0;1;Baisse de 20% la defense ennemie
+Vibrations;1.20;0;2;0;0;0;0;0;Vie d'un allie augmente de 20%
+Denosya;50;48.0;39.0;30.0;21.0
+
+6/Supersonic;0.40;0;3;0;0;0;1;1;Baisse vitesse ennemie de 60%
+Rayon concentre;0.50;4;4;0;1;0;0;1;Baisse 50% def ennemi
+Noir total;0.85;3;3;1;1;1;1;1;Baisse de 15% sur toutes les caracteristiques d'un ennemi  
+Lusce;50;48.0;30.0;34.0;60.00
+
+7/Trou noir;0.85;5;5;1;1;0;0;1;Baisse attaque et defense ennemie de 15%  
+Dome sombre;0.90;0;2;0;1;0;0;1;Baisse 10% def ennemi
+Sombre soin;1.15;3;3;0;0;0;0;0;Augmente de 15% la vie d'un de tes allies
+Zenkra;50;51.0;50.0;15.0;20.00
+
+8/Turbo;1.20;3;3;0;0;0;0;0;Soigne un de tes camarades, augmentation de 20%  
+Plus vite!;0.80;0;2;0;0;0;1;1;Baisse 20% vitesse ennemie
+Raito special;0.80;4;4;1;0;0;0;1;Baisse attaque ennemie de 20%  
+Raito;50;42.0;20.0;42.0;80.00
+
+9/Foudroyant;0.75;4;4;0;1;0;1;1;Defense et vitesse ennemie baisse de 25%
+Grondement tonerre;0.80;0;3;0;1;0;0;1;Baisse de 20% la défense ennemie
+Eclair direct;0.85;3;3;1;0;0;0;1;Attaque ennemie baisse de 15%  
+Stormy;50;63.0;25.0;15.0;36.0
+
